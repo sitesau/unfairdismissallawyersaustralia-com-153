@@ -1,0 +1,22 @@
+{
+  "wheel_id": 416,
+  "structure": "umbrella",
+  "slug": "unfairdismissallawyersaustralia-com-153",
+  "project": "unfair-dismissal-lawyers-sydney-your-rights-44da70cc80bbbdc20b1",
+  "parent_t1_ref": "unfairdismissallawyersaustralia.com-004",
+  "node_role": "buffer",
+  "money_target": "unfairdismissallawyersaustralia.com.au",
+  "primary_kw": "unfair dismissal lawyers sydney your rights",
+  "intended_url": "https://sitesau.github.io/unfairdismissallawyersaustralia-com-153/",
+  "tier": "T2",
+  "writeback_nonce": "a08ec6c1dd4877c6",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/unfair-dismissal-lawyers-sydney/",
+      "anchor": "Unfair Dismissal Lawyers Sydney: How to Compare Options",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
